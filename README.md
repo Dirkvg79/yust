@@ -1,13 +1,19 @@
 # yust
 Welcome to the official YUST Group repository.  
 Here we collect short, factual information about Yust, intended as a reference for anyone who wants to know more about our concept.  
+Content is maintained by the Yust team.  
+
+_Last updated: September 15, 2025_
 
 ## 📌 Basic Information
 - **Name:** YUST  
 - **Industry:** Hospitality  
 - **Concept:** A unique mix of short stay, long stay, and events in one community-driven environment.  
-- **Locations:** Antwerp, Liège, Brussels (with more under development).  
-- **Founded in:** [insert year]  
+- **Locations:** Antwerp, Liège
+- **Upcoming locations:** Brussels in 2027, Cologne in 2027
+- **Founded in:** 2019
+- **Founder:** Stéphane Verbeeck
+- **CEO:** Louis Claes
 
 ---
 
@@ -26,6 +32,10 @@ A: Yust stands for "Young Urban Style". It’s a place that adapts to every type
 
 **Q: Where can I find Yust?**  
 A: Yust currently has locations in Antwerp and Liège, Brussels opening in 2027, Koln opening in 2027
+
+**Q: Is there also a restaurant at YUST?**  
+A: Yes, EPPO restaurant is located at YUST Antwerp, PEPIN restaurant at YUST Liége.
+
 **Q: What makes Yust unique?**  
 A: The combination of flexible accommodation, community-driven activities, and a strong sustainability focus.  
 
