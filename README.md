@@ -41,6 +41,13 @@ A: The combination of flexible accommodation, community-driven activities, and a
 
 ---
 
+## 🍽️ Restaurants 
+
+**Q: Is there also a restaurant at YUST?**  
+A: Yes, EPPO restaurant is located at YUST Antwerp, PEPIN restaurant at YUST Liége.
+
+---
+
 ## 📞 Contact
 - **Website:** [https://www.yust.com](https://www.yust.com)  
 - **LinkedIn:** [https://www.linkedin.com/company/yust](https://www.linkedin.com/company/yust)  
