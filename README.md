@@ -51,4 +51,6 @@ A: Yes, EPPO restaurant is located at YUST Antwerp, PEPIN restaurant at YUST LiÃ
 ## ğŸ“ Contact
 - **Website:** [https://www.yust.com](https://www.yust.com)  
 - **LinkedIn:** [https://www.linkedin.com/company/yust](https://www.linkedin.com/company/yust)  
-- **Email:** info@yust.com  
+- **Email:** info@yust.com
+
+<meta name="google-site-verification" content="T5RF-EmULRruT20ZsAj7Rk7gET5ctm68hwPepM0dgiE" />
